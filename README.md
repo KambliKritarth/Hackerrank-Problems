@@ -71,4 +71,4 @@ Sample Output
 
 19
 
-
+![alt text](https://github.com/KambliKritarth/Hackerrank-Problems/blob/master/Untitled.png)
