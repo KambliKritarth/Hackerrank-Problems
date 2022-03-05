@@ -1,8 +1,8 @@
 # Hackerrank-Problems
 
-1. GlassHourSum 
+## 1. GlassHourSum 
 
-Given a  2D Array, :
+Given a  2D Array :
 
 1 1 1 0 0 0
 0 1 0 0 0 0
@@ -17,7 +17,7 @@ a b c
 e f g
 There are  hourglasses in . An hourglass sum is the sum of an hourglass' values. Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum. The array will always be .
 
-Example
+**Example**
 
 
 -9 -9 -9  1 1 1 
@@ -39,7 +39,7 @@ The highest hourglass sum is  from the hourglass beginning at row , column :
 8 6 6
 Note: If you have already solved the Java domain's Java 2D Array challenge, you may wish to skip this challenge.
 
-Function Description
+**Function Description**
 
 Complete the function hourglassSum in the editor below.
 
@@ -53,7 +53,8 @@ Input Format
 
 Each of the  lines of inputs  contains  space-separated integers .
 
-Constraints
+**Constraints** 
+-9<arr[i] [j] <9
 
 Output Format
 
@@ -71,4 +72,4 @@ Sample Output
 
 19
 
-
+![alt text](https://github.com/KambliKritarth/Hackerrank-Problems/blob/master/Untitled.png)
