@@ -77,6 +77,10 @@ Sample Output
 
 ## 2. Arrays: Left Rotation
 
+### Problem Statement
+
 ![alt_text](https://github.com/KambliKritarth/Hackerrank-Problems/blob/master/arrayleftrotation.png)
+
+### Drawing
 
 ![alt_text](https://github.com/KambliKritarth/Hackerrank-Problems/blob/master/arrayleftrotation2.png)
